@@ -1,0 +1,11 @@
+build
+Debug
+Release
+.vs
+.vscode
+external/glew*
+external/glm*
+external/sdl2-devel*
+external/SDL2-2.0.12
+external/imgui*
+imgui.ini
